@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyGraphViewer", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ILCompiler.DependencyAnalysisFramework", "..\ILCompiler.DependencyAnalysisFramework\ILCompiler.DependencyAnalysisFramework.csproj", "{9A8AB4A1-77BC-4C41-8A25-CC627E787901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILCompiler.DependencyAnalysisFramework.Tests", "..\ILCompiler.DependencyAnalysisFramework\tests\ILCompiler.DependencyAnalysisFramework.Tests\ILCompiler.DependencyAnalysisFramework.Tests.csproj", "{AE93C9F4-802F-4131-AE0B-735749165664}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILCompiler.DependencyAnalysisFramework.Tests", "..\ILCompiler.DependencyAnalysisFramework\tests\ILCompiler.DependencyAnalysisFramework.Tests.csproj", "{AE93C9F4-802F-4131-AE0B-735749165664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
